@@ -45,6 +45,9 @@ gem 'faker'
 # Install devise
 gem 'devise'
 
+# Install reddis
+gem 'redis'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
